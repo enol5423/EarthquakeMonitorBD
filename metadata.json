@@ -1,0 +1,5 @@
+{
+  "name": "Bangladesh QuakeMonitor",
+  "description": "Real-time earthquake monitoring dashboard for Bangladesh using USGS API.",
+  "requestFramePermissions": []
+}
